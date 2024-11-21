@@ -2,9 +2,11 @@
 
 
 Project Overview
+
 Connected Vehicle Data Analysis is a project designed to harness the power of IoT sensors in vehicles to collect, process, and analyze real-time data, enabling valuable insights to improve vehicle safety, performance, and efficiency. This project aims to overcome challenges such as handling large volumes of data, delays in processing, data privacy concerns, and presenting actionable insights to users. By implementing machine learning algorithms, the project intends to provide a robust solution for predicting traffic patterns, enhancing vehicle performance, and ensuring sustainable and secure data handling.
 
 Objectives
+
 Simulate IoT Sensor Data
 Generate realistic vehicle data, including speed, fuel consumption, tire pressure, engine performance, GPS location, and other metrics, to mimic real-world IoT sensor readings.
 
@@ -20,16 +22,10 @@ Enable the analysis of vehicle performance trends, driving behavior, and mainten
 Identify the Best Predictive Model
 Evaluate various machine learning algorithms to determine the most effective approach for deriving insights and predictions from vehicle data.
 
-Features
-Real-Time Data Simulation: A Python-based framework to generate synthetic vehicle sensor data.
-Data Collection and Processing: Efficient pipelines to collect and process large datasets.
-Machine Learning Integration: Models including SVM and Random Forest for traffic prediction and safety analysis.
-Data Visualization: Interactive charts and dashboards to display insights such as maintenance schedules, performance metrics, and traffic patterns.
-Security and Privacy: Techniques to ensure secure handling and anonymization of sensitive vehicle data.
-Energy Optimization: Methods to minimize the energy required for data processing and transmission.
 
 
 System Workflow
+
 Data Simulation
 
 Generate synthetic datasets using Python libraries like NumPy and pandas.
@@ -55,6 +51,7 @@ Develop dashboards using libraries like Plotly, Matplotlib, or Dash to present i
 
 
 Technologies and Tools
+
 Programming Languages: Python
 Libraries: NumPy, pandas, Scikit-learn, Matplotlib, Plotly, Dash
 Machine Learning Algorithms:
@@ -65,6 +62,7 @@ Visualization: Plotly, Dash, or Tableau
 
 
 System Requirements
+
 The system shall process and analyze real-time vehicle data efficiently.
 The system shall ensure data security and privacy compliance.
 The system shall optimize resource usage to support sustainability.
