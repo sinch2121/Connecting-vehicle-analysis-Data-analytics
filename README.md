@@ -1,5 +1,6 @@
 # Connecting-vehicle-analysis-Data-analytics
 
+*NOTE: THE ENTIRE CODE IN THE GOOGLE COLAB IS EXECUTED WITH 5 DIFFERENT TEST CASES*
 
 Project Overview
 
